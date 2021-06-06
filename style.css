@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 32px;
+width: 100%;
+margin: 0px;
+}
+#Note{
+    font-size: 17px;
+    color: black;
+}
+#start{
+    font-size: 20px;
+    width: 150px;
+}
+#status, #status_on_mentioned_object
+{
+font-size: 20px;
+}
+.copy_right_footer{
+    font-size: 19px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: rgba(80, 80, 80, 0.376);
+    text-align: center;
+    color: white;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+#input_name{
+    width: 25%;
+    height: 35px;
+    margin-bottom: 30px;
+}
